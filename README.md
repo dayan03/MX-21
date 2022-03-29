@@ -10,4 +10,4 @@ hecho para el Docente :
 Giancarlos 
 
 Paso 1:
-![imagen1](img/ima1.jpg)
+![imagen 1](img/ima1.jpg)
