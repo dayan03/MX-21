@@ -1,7 +1,7 @@
 # MX-21
 instalacion de sistema operativo MX-21
 
-integrantes:\n"
+ "integrantes:\n"
 Juan Felipe Merchancano\n"
 Diana Leonela Atehortua Caicedo\n"
 Duvan Aguirre\n"
