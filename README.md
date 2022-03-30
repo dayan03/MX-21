@@ -7,7 +7,7 @@ Diana Leonela Atehortua Caicedo
 Duvan Aguirre
 
 hecho para el Docente :
-Giancarlos 
+Giancarlos Benavides
 
 Paso 1:
 Al momento de instalar MX-21 lo primero se debe instalar la imagen iso  de MX Linux.
