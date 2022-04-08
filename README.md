@@ -70,9 +70,13 @@ Aquí se completa instalación del sistema de la maquina virtual MX-21
 <b>VENTAJAS </b>
 
 •	Varias aplicaciones nuevas y actualizadas.
+
 •	Una nueva área de selección de particiones del instalador: Lo cual incluye algo de soporte para lvm si el volumen lvm ya existe.
+
 •	Nuevos menús de arranque del sistema en vivo UEFI: Los cuales permiten seleccionar las diversas opciones de arranque en vivo (persistencia, entre otras) desde el menú de arranque y los submenús en lugar de utilizar los menús de consola anteriores.
+
 •	Los Entornos de Escritorio XFCE 4.16 y Plasma 5.20, más el gestor de Ventanas Fluxbox 1.3.7 con configuraciones en mx-fluxbox 3.0.
+
 •	Contraseña de usuario (sudo) para las tareas de administración por defecto: Lo cual puede ser cambiado en la opción de configuración siguiente: MX-Tweak + Otras pestañas.
 
 3)
