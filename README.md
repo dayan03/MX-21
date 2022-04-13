@@ -2,13 +2,17 @@
 instalacion de sistema operativo MX-21
 
 integrantes:
+
 Juan Felipe Merchancano
+
 Diana Leonela Atehortua Caicedo
+
 Duvan Aguirre
 
 hecho para el Docente :
 Giancarlos Benavides
 
+#
 Paso 1:
 Al momento de instalar MX-21 lo primero se debe instalar la imagen iso  de MX Linux.
 
@@ -63,7 +67,7 @@ Aquí se completa instalación del sistema de la maquina virtual MX-21
 
 ![imagen 9](img/ima9.jpg)
 
-
+#
 
 2)	 MX Linux es un sistema operativo Linux ligero basado en Debian estable, con los componentes centrales de antiX, con software adicional creado y empaquetado por MX Community. Se desarrolla como una empresa cooperativa entre las comunidades de antiX y el antiguo MEPIS, con el objetivo de utilizar las mejores herramientas y talentos de cada una de estas distribuciones.
 
@@ -86,10 +90,15 @@ Aquí se completa instalación del sistema de la maquina virtual MX-21
 <B>VENTAJAS ENTORNO ESCRITORIO</B>
 
 •	Una sólida trayectoria histórica.
+
 •	Ofrece un excelente equilibrio entre velocidad, estabilidad y configuración.
+
 •	Muy usado como Entorno de Escritorio por defecto en muchas Distros.
+
 •	Muy personalizable y ligero, sobre todo a nivel del Panel y el Escritorio mediante ajustes y widgets (goodies).
+
 •	Compatibilidad nativa con aplicaciones de GNOME debido a que ambos usan GTK+. Aunque puede ejecutar muy bien aplicaciones de KDE Plasma si el mismo se encuentra instalado de forma mínima con sus librerías necesarias, sobre el Sistema Operativo.
+
 4)
 
 Thunar, con funciones básicas para ordenadores poco potentes
@@ -125,5 +134,15 @@ MX-16.1 recopiló todas las correcciones de errores y mejoras desde MX-16 y agre
 MX-17 cambia su base a Debian 9 (Stretch), y trae ilustraciones mejoradas, nuevas herramientas MX, funcionamiento en vivo mejorado a través de antiX y muchos otros cambios detallados en el Blog de MX.
 MX-18 continúa con el desarrollo de las herramientas MX, presenta un núcleo muy reciente, permite el cifrado de todo el disco y agrega temas de grub y funcionalidad de bienvenida a través de las opciones de arranque MX. Se han incluido nuevas ilustraciones y una mejor localización. Detalles en el Blog de MX.
 MX Linux 19 «Patito Feo» en la nueva versión de la distribución, como novedad principal se destaca que la base del sistema se ha actualizado a Debian 10 “Buster” junto con algunos paquetes de los últimos repositorios antiX y MX
-MX-21 “Wildflower” se lanzó el 21 de octubre del 2021, teniendo como novedad tener su base en Debian 11 (Bullseye) 
+MX-21 “Wildflower” se lanzó el 21 de octubre del 2021, teniendo como novedad tener su base en Debian 11 (Bullseye)
+
+
+## Ventajas  de lanzamientos de Mx-21
+  
+MX-Linux en si es una Distro muy fácil de usar y muy potente que hace un trabajo excelente sin necesidad de incluir una cantidad innecesaria de software externo o adicional.
+	MX Linux tiene como punto a su favor una buena colección de aplicaciones propias que la convierten definitivamente en una Distro muy especial que permite ahorrar tiempo, sobre todo a los usuarios con menos experimentados. Y el conservar la compatibilidad con la arquitectura de 32 bits y de 64 bits junto al Kernels Non-PAE definitivamente es un incentivo maravilloso en una distribución GNU/Linux moderna
+una de las cualidades mas importantes de MX Linux es su facilidad de uso. No requiere ninguna curva de aprendizaje para usar el escritorio Xfce eficientemente.  Y la coleccion de herramientas que fueron diseñadas solo para funcionar en el sistema operativo.
+ El objetivo de la distro segun sus creadores es “combinar un escritorio elegante y eficiente con una configuración simple, alta estabilidad, rendimiento sólido y tamaño medio”
+Linux Mx es la fusion de dos distribuciones que ya fueron probadas y con amplia experiencia de sus desarrolladores.
+MX Linux puede ser una gran comodidad si viajas o trabaja en diferentes lugares con acceso a equipos de computo. Es fácil y rapido instalar todo el sistema en una memoria USB.
 
